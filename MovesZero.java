@@ -1,3 +1,4 @@
+package Arrays;
 public class MovesZero {
     public void moveZeroes(int[] nums) {
         int j=0;
